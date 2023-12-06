@@ -1,4 +1,4 @@
-from data import load_ndfa,load_brackets
+from data import load_ndfa, load_brackets
 import torch
 import torch.nn as nn
 import torch.optim as optim
